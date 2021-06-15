@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @njngwn
 - 👀 I’m interested in VR, Unity, iOS, HTML, CSS and Javascript.
 - 🌱 I’m currently learning Java.
+- 📑 You can download my portfolio here.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
