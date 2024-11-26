@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @njngwn
-- 👀 I’m interested in VR, Unity, iOS, HTML, CSS and Javascript.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in XR and Web Programming.
+- 🌱 I’m currently learning Python.
 - 📑 You can download my portfolio here.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 njngwn/njngwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
